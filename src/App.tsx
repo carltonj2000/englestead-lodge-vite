@@ -44,7 +44,7 @@ function App() {
                   <li>noon meet @ Cannery Casion</li>
                   <li>Drive to AirBnB in La Verking</li>
                   <li>Dinner At AirBnB</li>
-                  <li>Texas Holdem Night</li>
+                  <li>Texas Hold'em Night</li>
                 </ul>
               </td>
             </tr>
